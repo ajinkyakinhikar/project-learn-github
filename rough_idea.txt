@@ -27,3 +27,8 @@ Here we go:
 1. If Rajinikanth was born a hundred years earlier,
    the British would have fought to get their independence from India.
    
+ 
+ -------------------------------------------------------------------------------------------
+ I think, jokes also deserves to be in the master branch. Let's try it.
+ ** trying to merge jokes with master 
+   
